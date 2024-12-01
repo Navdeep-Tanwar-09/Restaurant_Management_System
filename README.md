@@ -20,6 +20,7 @@ A simple yet functional Restaurant Management System implemented in C++, designe
    - Provides a password-protected overview for restaurant managers.
    - Displays queue details and table status (available/occupied).
    - Shows active orders for occupied tables.
+
 **Interface:**
 
 ![image](https://github.com/user-attachments/assets/124dec86-17fb-41f0-9de9-1b3bd9317cdc)
